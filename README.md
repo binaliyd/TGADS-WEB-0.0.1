@@ -1,2 +1,2 @@
 # TGADS-WEB-0.0.1
-TGADS Web Sitemizin Temellerini Atıyoruz
+TGADS Web sitemizin ilk adımlarını atıyoruz.Öncelikle HTML CSS dilleri ile kodlamaya başlıyoruz. ilk sürüm olan 0.0.1'i yayınlıyoruz. denemeniz ve test etmeniz önemle rica olunur. Şimdiden geleceğimize yatırımlar yapmaya başlıyoruz...
